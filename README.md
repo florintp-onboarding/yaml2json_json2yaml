@@ -9,7 +9,6 @@ It was tested on MAC OS (M1) and Ubuntu (23.04) Python3 (3.11.7) with regular co
 # Python Libraries
 - PIP
 - pyyaml
-- datetime
 
 # How to use the tools
 
