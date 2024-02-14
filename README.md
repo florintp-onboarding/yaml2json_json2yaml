@@ -14,20 +14,24 @@ It was tested on MAC OS (M1) and Ubuntu (23.04) Python3 (3.11.7) with regular co
 # How to use the tools
 
 - Install prerequisites
-````
-pip install pyyaml
-python3.11 -m pip install --upgrade pip
-````
-
+  ````
+  pip install pyyaml
+  python3.11 -m pip install --upgrade pip
+  ````
+- Clone this repo
+  ````
+  gh repo clone florintp-onboarding/yaml2json_json2yaml
+  cd yaml2json_json2yaml
+  ````
 - Execute the convert tool YAML->JSON
-````
-python3 yaml2json.py config.yaml
-````
+  ````
+  python3 yaml2json.py config.yaml
+  ````
 
 - Execute the convert tool JSON->YAML
-````
-python3 json2yaml.py config.json
-````
+  ````
+  python3 json2yaml.py config.json
+  ````
 
 # Output Example
 a) Successful conversion of an YAML file named `config` into `config.json`:
