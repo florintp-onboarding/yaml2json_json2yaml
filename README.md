@@ -1,6 +1,7 @@
 # Convert yaml2json and json2yaml files using Python
 
-This repository provide basic Python tools to convert YAML to JSON or JSON to YAML files. It was tested on Python3 with regular config files (YAML).
+This repository provide basic Python tools to convert YAML to JSON or JSON to YAML files.
+It was tested on MAC OS (M1) and Ubuntu (23.04) Python3 (3.11.7) with regular config files (YAML).
 
 # Requirements
 - Python 3
