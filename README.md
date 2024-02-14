@@ -4,7 +4,6 @@ This repository provide basic Python tools to convert YAML to JSON or JSON to YA
 
 # Requirements
 - Python 3
-- JQ
 
 # Python Libraries
 - PIP
