@@ -17,6 +17,11 @@ It was tested on MAC OS (M1) and Ubuntu (23.04) Python3 (3.11.7) with regular co
   pip install pyyaml
   python3.11 -m pip install --upgrade pip
   ````
+  or as system managed
+  ````
+  pip install pyyaml
+  brew install pyyaml
+  ````
 - Clone this repo
   ````
   gh repo clone florintp-onboarding/yaml2json_json2yaml
